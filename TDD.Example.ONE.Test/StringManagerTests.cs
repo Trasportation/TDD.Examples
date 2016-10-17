@@ -14,6 +14,7 @@ namespace TDD.Example.ONE.Test
             Assert.IsTrue(sm.IsNullOrEmpty);
         }
 
+
         [TestMethod]
         public void sm_CheckStringAdd()
         {
