@@ -14,6 +14,7 @@ namespace StringCalculator
         private string separators = ",;\n";
         public int MaxValueToSum { get; set; }
 
+
         public StringCalculator()
         {
             MaxValueToSum = 1000;
